@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yro04 - Yarodis Ramirez
-- 👀 I’m interested in Angular, AWS, React and Nodejs
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Angular, AWS, React and Nodejs (and its differents web app frameworks)
 - 💞️ I’m looking to collaborate on new and challenging projects/algorithm to improve my code skilss
 - 📫 How to reach me yarohro@gmail.com
 
