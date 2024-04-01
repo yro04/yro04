@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yro04 - Yarodis Ramirez
-- 👀 I’m interested in Angular, AWS, React and Nodejs (and its differents web app frameworks)
-- 💞️ I’m looking to collaborate on new and challenging projects/algorithm to improve my code skilss
+- 👀 I’m interested in Angular, AWS, React, and Nodejs (and its differents frameworks)
+- 💞️ I’m looking to collaborate on new and challenging projects/algorithms to improve my code skills
 - 📫 How to reach me yarohro@gmail.com
 
 <!---
